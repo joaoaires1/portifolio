@@ -1,0 +1,18 @@
+[
+    {   
+        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer",
+        "background": "rgb(52, 34, 36)",
+        "capa": "Wikipedia viewer",
+        "titulo": "Wikipédia viewer",
+        "descricao": "Consumindo a api da wikipedia para retornar os 12 artigos relacionados a uma keyword pesquisada.",
+        "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
+    },
+    {
+        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer",
+        "background": "seagreen",
+        "capa": "local weather",
+        "titulo": "App temperatura local",
+        "descricao": "Consumindo a api do openweathermap para funcionar como um weather app baseados nas suas coordenadas.",
+        "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
+    }
+]
