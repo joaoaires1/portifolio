@@ -8,7 +8,7 @@
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
     },
     {
-        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer",
+        "endereco": "http://joaoaires.me/projetos/local-weather",
         "background": "seagreen",
         "capa": "local weather",
         "titulo": "App temperatura local",
