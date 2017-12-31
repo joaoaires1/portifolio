@@ -1,6 +1,6 @@
 [
     {   
-        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer",
+        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer/index.html",
         "background": "rgb(52, 34, 36)",
         "capa": "Wikipedia viewer",
         "titulo": "Wikipédia viewer",
@@ -8,7 +8,7 @@
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
     },
     {
-        "endereco": "http://joaoaires.me/projetos/local-weather",
+        "endereco": "http://joaoaires.me/projetos/local-weather/index.html",
         "background": "seagreen",
         "capa": "local weather",
         "titulo": "App temperatura local",
