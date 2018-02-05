@@ -2,15 +2,15 @@
     {   
         "endereco": "http://joaoaires.me/projetos/wikipedia-viewer/index.html",
         "background": "rgb(52, 34, 36)",
-        "capa": "Wikipedia viewer",
+        "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-wikipedia-w\" aria-hidden=\"true\"></i>",
         "titulo": "Wikipédia viewer",
-        "descricao": "Consumindo a api da wikipedia para retornar os 12 artigos relacionados a uma keyword pesquisada.",
+        "descricao": "Consumindo a api da wikipédia para retornar os 12 artigos relacionados a uma keyword pesquisada.",
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
     },
     {
         "endereco": "http://joaoaires.me/projetos/local-weather/index.html",
         "background": "seagreen",
-        "capa": "local weather",
+        "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-thermometer-three-quarters\"></i>",
         "titulo": "App temperatura local",
         "descricao": "Consumindo a api do openweathermap para funcionar como um weather app baseados nas suas coordenadas.",
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
