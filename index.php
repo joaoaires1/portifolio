@@ -25,7 +25,7 @@
 
         <div class="container descricao">
             <h1><span>Olá,</span> meu nome é João Aires</h1>
-            <p>Eu sou estudante de análise e desenvolvimento de sistemas na Uninter. E estudo desenvolvimento web autodidaticamente, através de livros e cursos online desde 2016. Os códigos fonte dos projetos podem ser vizualizados na minha conta do <a href="https://github.com/joaoaires1" target="_blank">Github</a>.</p>
+            <p>Eu sou estudante de análise e desenvolvimento de sistemas na Uninter. E estudo desenvolvimento web autodidaticamente. Os códigos fonte dos projetos podem ser vizualizados na minha conta do <a href="https://github.com/joaoaires1" target="_blank">Github</a>.</p>
             <p class="email">Email: joaoaires.dev@gmail.com</p>
         </div>
     </header>
