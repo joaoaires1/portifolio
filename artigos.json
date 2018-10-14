@@ -1,6 +1,14 @@
 [
     {   
-        "endereco": "http://joaoaires.me/projetos/wikipedia-viewer/index.html",
+        "endereco": "http:ttclone.work",
+        "background": "rgb(29, 161, 242)",
+        "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-twitter\" aria-hidden=\"true\"></i>",
+        "titulo": "Wikipédia viewer",
+        "descricao": "Sistema com funcionalidades simplificadas semelhante à rede social twitter.",
+        "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
+    },
+    {   
+        "endereco": "https://joaoaires.me/projetos/wikipedia-viewer/index.html",
         "background": "rgb(52, 34, 36)",
         "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-wikipedia-w\" aria-hidden=\"true\"></i>",
         "titulo": "Wikipédia viewer",
@@ -8,9 +16,9 @@
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"
     },
     {
-        "endereco": "http://joaoaires.me/projetos/local-weather/index.html",
+        "endereco": "https://joaoaires.me/projetos/local-weather/index.html",
         "background": "seagreen",
-        "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-thermometer-three-quarters\"></i>",
+        "capa": "<i style=\"font-size: 110px;\" class=\"fa fa-sun-o\"></i>",
         "titulo": "App temperatura local",
         "descricao": "Consumindo a api do openweathermap para funcionar como um weather app baseados nas suas coordenadas.",
         "tecnologias": "HTML/ CSS/ JS/ jQuery/ AJAX"

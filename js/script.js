@@ -14,7 +14,7 @@ $(document).ready(function () {
 
                 $(".row").append(
                     "<article class=\"col-lg-4 col-md-6 \">" +
-                    "<a href=\""+ endereco +"\"><div style=\"background: "+ background +";\" class=\"capa\"><span>"+ capa +"</span></div></a>" +
+                    "<a href=\""+ endereco +"\" target=\"_blank\"><div style=\"background: "+ background +";\" class=\"capa\"><span>"+ capa +"</span></div></a>" +
                     "<div class=\"artigo-descricao\">" +
                     "<div class=\"titulo\">"+ titulo +"</div>" +
                     "<div class=\"desc\">"+ descricao +"</div>" +

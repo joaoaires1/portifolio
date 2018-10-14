@@ -13,11 +13,15 @@ html {
 
 a {
     text-decoration: none;
-    color: rgb(41, 27, 240);
+    color: red;
+    font-weight: 500;
 }
 
 header {
-    background: rgb(119, 177, 169);
+    background: #43cea2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
     color: white;
     border-bottom: none;
 }
